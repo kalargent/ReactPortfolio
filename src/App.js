@@ -1,26 +1,71 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Featured from './components/Featured';
+import ProjectCard from "./components/ProjectCard";
+import projects from "./projects.json"; 
+import featured from "./featured.json"; 
+// import About from './components/About'; 
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          HELLO WORLD!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+class App extends React.Component {
+  state = {
+    projects,
+    featured 
+  };
+
+  render() { 
+    return (
+      <div className="container">
+      <div className="row">THIS IS ROW 1 - HEADER</div>
+      <div className="row">
+        <div className="col s9">
+        {this.state.featured.map(projects => (
+                <Featured
+                  id={projects.id}
+                  key={projects.id}
+                  title={projects.name}
+                  image={projects.image}
+                />
+              ))}
+        </div>
+        <div className="col s3">R2 COL 2 - ABOUT ME </div>
+      </div>
+      <div className="row">
+        <div className="col s9">
+        {this.state.projects.map(projects => (
+                <ProjectCard
+                  id={projects.id}
+                  key={projects.id}
+                  title={projects.name}
+                  image={projects.image}
+                />
+              ))}
+        </div>
+
+        <div className="col s3">R3 COL 2 - EMPTY </div>
+      </div>
     </div>
-  );
+    )
+  }
+
 }
+
+// render() {
+//   return (
+//     <div className="container">
+//       <div className="row">THIS IS ROW 1 - HEADER</div>
+//       <div className="row">
+//         <div className="col s9">
+//           <Featured />
+//         </div>
+//         <div className="col s3">R2 COL 2 - ABOUT ME </div>
+//       </div>
+//       <div className="row">
+//         <div className="col s9">R3 COL1 - OTHER PROJECTS </div>
+//         <div className="col s3">R3 COL 2 - EMPTY </div>
+//       </div>
+//     </div>
+//   );
+// }
+// }
 
 export default App;
