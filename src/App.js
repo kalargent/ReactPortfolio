@@ -16,7 +16,7 @@ class App extends React.Component {
     return (
       <div className="container">
       <div className="row">
-        <div>
+        <div >
         {this.state.featured.map(projects => (
                 <Featured
                   id={projects.id}

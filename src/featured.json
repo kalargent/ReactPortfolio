@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sarge (MERN)",
-        "image": "",
+        "image": "https://www.apewebapps.com/apps/sarge/1.3.0/assets/images/title/trollland_logo.png",
         "git": "https://github.com/kmj217/Project3",
         "prod": "https://guarded-oasis-99226.herokuapp.com/",
         "video": ""
