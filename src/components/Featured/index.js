@@ -3,7 +3,7 @@ import "./style.css";
 
 function Featured(props) {
   return (
-    <div className="card horizontal" id="feature-card">
+    <div className="card-panel" id="feature-card">
         <div className="card-image">
         <img alt="placeholder" src="https://lorempixel.com/100/190/nature/6" />
       </div>
