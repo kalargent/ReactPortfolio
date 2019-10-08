@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sarge (MERN)",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1gbU9g0AkIEXEz6nzQ-VzySHpS3SUtDpwDZJqeXmOuYvVKWENQ",
+        "image": "",
         "git": "https://github.com/kmj217/Project3",
         "prod": "https://guarded-oasis-99226.herokuapp.com/",
         "video": ""

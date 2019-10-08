@@ -4,7 +4,7 @@ import Featured from './components/Featured';
 import ProjectCard from "./components/ProjectCard";
 import projects from "./projects.json"; 
 import featured from "./featured.json"; 
-// import About from './components/About'; 
+import About from './components/About'; 
 
 class App extends React.Component {
   state = {
@@ -27,7 +27,7 @@ class App extends React.Component {
                 />
               ))}
         </div>
-        <div className="col s3">R2 COL 2 - ABOUT ME </div>
+        <div className="col s3"><About /></div>
       </div>
       <div className="row">
         <div className="col s9">

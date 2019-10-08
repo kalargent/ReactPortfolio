@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Word Guess Game",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/word-guess-game",
     "prod": "https://kalargent.github.io/word-guess-game/",
     "video": ""
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Kerropi's Number Guess Game",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/kerropis-number-guess",
     "prod": "https://kalargent.github.io/kerropis-number-guess/",
     "video": ""
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "The One with the Trivia",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/Friends-Trivia-Game",
     "prod": "https://kalargent.github.io/Friends-Trivia-Game/",
     "video": ""
@@ -28,7 +28,7 @@
   {
     "id": 4,
     "name": "Doggo GIF Generator",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/Doggo-GIF-Generator",
     "prod": "https://kalargent.github.io/Doggo-GIF-Generator/",
     "video": ""
@@ -36,7 +36,7 @@
   {
     "id": 5,
     "name": "Multiplayer Rock, Paper, Scissors",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/RPS",
     "prod": "https://kalargent.github.io/RPS/",
     "video": ""
@@ -45,7 +45,7 @@
   {
     "id": 6,
     "name": "LIRI (A Node CLI App)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/LIRI",
     "prod": "",
     "video": "https://embed.vidyard.com/share/ztqSaMtZ9jHS6cBi5YbsTV?"
@@ -54,7 +54,7 @@
   {
     "id": 7,
     "name": "Bamazon (A Node CLI App)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "",
     "video": "https://embed.vidyard.com/share/UtydV5wznNf22ZkbA9FfBA?"
@@ -63,7 +63,7 @@
   {
     "id": 8,
     "name": "Doggo Fren Finder (Full Stack)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "https://mysterious-plateau-86607.herokuapp.com/",
     "video": "https://embed.vidyard.com/share/BmR4rzQmfZrZo5joCMK2uH?"
@@ -72,7 +72,7 @@
   {
     "id": 9,
     "name": "The Burger Shop (Full Stack)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/eat-da-burger",
     "prod": "https://cryptic-ravine-79248.herokuapp.com/",
     "video": "https://embed.vidyard.com/share/8pqDkyB8KGUa2t9GcKHog9?"
@@ -81,7 +81,7 @@
   {
     "id": 10,
     "name": "Walk the Aisle (Full Stack)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/project-2",
     "prod": "https://mysterious-sierra-10862.herokuapp.com",
     "video": ""
@@ -90,7 +90,7 @@
   {
     "id": 11,
     "name": "Site Scraper (Full Stack, Mongo)",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/site-scrape",
     "prod": "https://warm-journey-95389.herokuapp.com",
     "video": ""
@@ -99,7 +99,7 @@
   {
     "id": 12,
     "name": "Octocat Memory Game",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWFA8J3Mz8X1BY2Aakh_6dQfYLNUw1Nyrv4YSm3iVe6Y17jdb",
+    "image": "",
     "git": "https://github.com/kalargent/clicking-with-marnie",
     "prod": "https://kalargent.github.io/clicking-with-marnie/",
     "video": ""

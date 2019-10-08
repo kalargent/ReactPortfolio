@@ -1,11 +1,14 @@
 import React from "react";
+import "./style.css";
 
-function About () { 
-    return (
-        <div>
-        <h3 className="card"><center>About Me!</center></h3>
-        </div>
-    )
+function About() {
+  return (
+    <div className="container" id="about">
+      {/* <div className="card-content">
+        <h5>About </h5> 
+      </div> */}
+    </div>
+  );
 }
 
-export default About; 
+export default About;
