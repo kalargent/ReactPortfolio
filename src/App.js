@@ -37,6 +37,8 @@ class App extends React.Component {
                   title={projects.name}
                   image={projects.image}
                   git={projects.git}
+                  prod={projects.prod}
+                  video={projects.video}
                 />
               ))}
         </div>

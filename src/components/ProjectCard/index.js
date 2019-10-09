@@ -14,8 +14,8 @@ function ProjectCard(props) {
           <div className="card-action">  
           <a href={props.git} target="blank"> <i class="fab fa-github-square fa-lg"></i></a>
             
-            <i class="fas fa-link fa-lg"></i>
-            <i class="fas fa-video fa-lg"></i>
+           <a href={props.prod} target="blank"> <i class="fas fa-link fa-lg"></i></a>
+           <a href={props.video}> <i class="fas fa-video fa-lg"></i></a>
           </div>
         </div>
       </div>
