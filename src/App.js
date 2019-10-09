@@ -36,6 +36,7 @@ class App extends React.Component {
                   key={projects.id}
                   title={projects.name}
                   image={projects.image}
+                  git={projects.git}
                 />
               ))}
         </div>
