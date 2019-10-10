@@ -22,3 +22,15 @@
   .card > .img-container > img {
     width: 100%
   }
+
+  .fa-github-square {
+    padding:3px; 
+}
+
+.fa-link {
+    padding:3px; 
+}
+
+.fa-video {
+    padding:3px; 
+}

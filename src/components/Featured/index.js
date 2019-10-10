@@ -9,13 +9,13 @@ function Featured(props) {
       </div>
       <div class="card-stacked">
         <div class="card-content">
-        <h4>Title</h4>
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
+        <span className="card-title">{props.title}</span>
+          <p>Put a blurb about the app here.</p>
         </div>
         <div class="card-action">
-        <i class="fab fa-github-square fa-lg"></i>
-        <i class="fas fa-link fa-lg"></i>
-        <i class="fas fa-video fa-lg"></i>
+          <a href={props.git} target="blank"> <i class="fab fa-github-square fa-lg"></i></a>
+          <a href={props.prod} target="blank"> <i class="fas fa-link fa-lg"></i></a>
+          <a href={props.video}> <i class="fas fa-video fa-lg"></i></a>
         </div>
       </div>
     

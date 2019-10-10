@@ -15,6 +15,9 @@ class App extends React.Component {
   render() { 
     return (
       <div className="container">
+      <div className="row"> 
+      <About />
+      </div>  
       <div className="row">
         <div >
         {this.state.featured.map(projects => (
@@ -23,13 +26,16 @@ class App extends React.Component {
                   key={projects.id}
                   title={projects.name}
                   image={projects.image}
+                  git={projects.git}
+                  prod={projects.prod}
+                  video={projects.video}
                 />
               ))}
         </div>
       </div>
       
       <div className="row">
-        <div className="col s9">
+        {/* <div className="col s9"> */}
         {this.state.projects.map(projects => (
                 <ProjectCard
                   id={projects.id}
@@ -41,9 +47,9 @@ class App extends React.Component {
                   video={projects.video}
                 />
               ))}
-        </div>
+        {/* </div> */}
 
-        <div className="col s3"><About /></div>
+        {/* <div className="col s3"><About /></div> */}
       </div>
     </div>
     )

@@ -28,14 +28,14 @@
   {
     "id": 4,
     "name": "Doggo GIF Generator",
-    "image": "https://static.fjcdn.com/gifs/Doge+gifs_8c9377_5487877.gif",
+    "image": "https://thumbs.gfycat.com/GiddyReliableBichonfrise-max-1mb.gif",
     "git": "https://github.com/kalargent/Doggo-GIF-Generator",
     "prod": "https://kalargent.github.io/Doggo-GIF-Generator/",
     "video": ""
   },
   {
     "id": 5,
-    "name": "Multiplayer Rock, Paper, Scissors",
+    "name": "Rock, Paper, Scissors",
     "image": "https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-size_restricted.gif",
     "git": "https://github.com/kalargent/RPS",
     "prod": "https://kalargent.github.io/RPS/",
@@ -44,8 +44,8 @@
 
   {
     "id": 6,
-    "name": "LIRI (A Node CLI App)",
-    "image": "https://i.pinimg.com/originals/c1/14/12/c114123eb48fc0712b2482264414d9d7.gif",
+    "name": "LIRI",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36slmcIuSPYwjVQmMGW1FueMCNVvdvaO4kFVNwqbWKNw-B0-toQ",
     "git": "https://github.com/kalargent/LIRI",
     "prod": "",
     "video": "https://embed.vidyard.com/share/ztqSaMtZ9jHS6cBi5YbsTV?"
@@ -53,7 +53,7 @@
 
   {
     "id": 7,
-    "name": "Bamazon (A Node CLI App)",
+    "name": "Bamazon",
     "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7ba54148002457.588b581f680b9.gif",
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "",
@@ -62,7 +62,7 @@
 
   {
     "id": 8,
-    "name": "Doggo Fren Finder (Full Stack)",
+    "name": "Doggo Fren Finder",
     "image": "https://i.gifer.com/77jb.gif",
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "https://mysterious-plateau-86607.herokuapp.com/",
@@ -71,8 +71,8 @@
 
   {
     "id": 9,
-    "name": "The Burger Shop (Full Stack)",
-    "image": "https://patch.com/img/cdn20/users/22915293/20180703/021155/styles/T800x600/public/processed_images/shutterstock_593231897-1529000867-266-1530634331-4594-1530641510-2602.jpg",
+    "name": "The Burger Shop",
+    "image": "https://media2.s-nbcnews.com/i/newscms/2019_03/1401615/anne-burrell-killer-turkey-burger-today-main-today-190114-02_221ba7fea3790e918974cc7c16a29b64.jpg",
     "git": "https://github.com/kalargent/eat-da-burger",
     "prod": "https://cryptic-ravine-79248.herokuapp.com/",
     "video": "https://embed.vidyard.com/share/8pqDkyB8KGUa2t9GcKHog9?"
@@ -80,7 +80,7 @@
 
   {
     "id": 10,
-    "name": "Walk the Aisle (Full Stack)",
+    "name": "Walk the Aisle",
     "image": "https://www.zola.com/blog/wp-content/uploads/2015/12/carfeatured.png",
     "git": "https://github.com/kalargent/project-2",
     "prod": "https://mysterious-sierra-10862.herokuapp.com",
@@ -89,7 +89,7 @@
 
   {
     "id": 11,
-    "name": "Site Scraper (Full Stack, Mongo)",
+    "name": "Site Scraper",
     "image": "https://wordswithlisbeth.com/wp-content/uploads/2011/03/bumpers.jpg",
     "git": "https://github.com/kalargent/site-scrape",
     "prod": "https://warm-journey-95389.herokuapp.com",
