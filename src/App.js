@@ -20,7 +20,9 @@ class App extends React.Component {
       <div>
         <LandingPage />
         <AboutPage />
-        <PortfolioPage />
+        <PortfolioPage 
+          projects={this.state.projects}
+        />
       </div>
     );
   }

@@ -12,7 +12,17 @@ const PortfolioPage = (props) =>{
                <h2>Portfolio</h2> 
             </div>
             <div>
-                
+            {props.projects.map(projects => (
+              <ProjectCard
+                id={projects.id}
+                key={projects.id}
+                title={projects.name}
+                image={projects.image}
+                git={projects.git}
+                prod={projects.prod}
+                video={projects.video}
+              />
+            ))}
             </div>
         </div>
     )
