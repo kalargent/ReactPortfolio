@@ -9,10 +9,10 @@ const PortfolioPage = (props) =>{
     return (
         <div className="portfolio-page"> 
             <div className="portfolio-title">
-               Portfolio 
+               <h2>Portfolio</h2> 
             </div>
             <div>
-
+                
             </div>
         </div>
     )

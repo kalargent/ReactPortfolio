@@ -4,4 +4,12 @@
     flex: 0 1 auto;
     flex-direction: column;
     justify-content: center;
+    background-color: #876A8B; 
+}
+
+.portfolio-title {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color: white; 
+    padding-left: 30px; 
 }

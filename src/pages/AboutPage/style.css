@@ -4,4 +4,23 @@
     flex: 0 1 auto;
     flex-direction: column;
     justify-content: center;
+    background-color: lightgray; 
+}
+
+.about-title {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color:#6D6E71; 
+    padding-left: 30px; 
+}
+
+.about-text {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color:#6D6E71; 
+    padding-left: 30px; 
+}
+
+.social {
+    padding-left: 30px; 
 }

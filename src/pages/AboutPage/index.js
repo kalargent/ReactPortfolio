@@ -6,7 +6,7 @@ const AboutPage = (props) =>{
     return (
         <div className="about-page"> 
             <div className="about-title">
-                About Me  
+                <h2>About Me</h2>  
             </div>
 
             <div className="about-text">

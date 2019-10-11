@@ -1,8 +1,10 @@
 import React from "react";
+// import projects from "../../projects.json"; 
 import "./style.css";
 
 function ProjectCard(props) {
   return (
+
     <div className="row">
       <div className="col s12 m7">
         <div className="card">
