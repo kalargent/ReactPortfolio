@@ -33,21 +33,25 @@
 
 .card-content {
   background-color: white; 
+  height: 150px;
 }
 
 .title {
-  font-family: 'Arimo', sans-serif;
-  font-size: medium
+  /* font-family: 'Arimo', sans-serif; */
+  font-size: medium;
+  font:  #6D6E71; 
+  font-weight: bold; 
+  padding-bottom: 20px
 }
 
 .description {
-  font-family: 'Arimo', sans-serif;
+  /* font-family: 'Arimo', sans-serif; */
   font-size: small
 }
 
   .card-action {
-  padding: 10px; 
-  background-color: #D3D3D3
+  background-color: #D3D3D3; 
+  height: 40px;
 }
 
   .fa-github-square {

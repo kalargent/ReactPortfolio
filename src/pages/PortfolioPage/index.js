@@ -21,6 +21,7 @@ const PortfolioPage = (props) =>{
                 git={projects.git}
                 prod={projects.prod}
                 video={projects.video}
+                description={projects.description}
               />
             ))}
             </div>

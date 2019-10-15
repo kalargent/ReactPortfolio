@@ -10,7 +10,7 @@ function ProjectCard(props) {
         <div className="card">
           <div className="card-content black-text">
             <span className="title">{props.title}</span>
-            <p className="description">This is some description.</p>
+            <p className="description">{props.description}</p>
           </div>
 
           <div className="card-action">  
