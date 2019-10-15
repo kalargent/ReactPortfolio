@@ -32,15 +32,22 @@
   } */
 
 .card-content {
-  background-color: #D3D3D3
+  background-color: white; 
 }
 
-.card-title {
+.title {
+  font-family: 'Arimo', sans-serif;
+  font-size: medium
+}
 
+.description {
+  font-family: 'Arimo', sans-serif;
+  font-size: small
 }
 
   .card-action {
   padding: 10px; 
+  background-color: #D3D3D3
 }
 
   .fa-github-square {

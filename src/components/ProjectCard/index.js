@@ -9,7 +9,8 @@ function ProjectCard(props) {
       <div className="col s12 m7">
         <div className="card">
           <div className="card-content black-text">
-            <span className="card-title">{props.title}</span>
+            <span className="title">{props.title}</span>
+            <p className="description">This is some description.</p>
           </div>
 
           <div className="card-action">  
