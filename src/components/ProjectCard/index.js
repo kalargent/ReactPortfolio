@@ -8,8 +8,7 @@ function ProjectCard(props) {
     <div className="row">
       <div className="col s12 m7">
         <div className="card">
-          <div className="card-image">
-            <img alt="placeholder" src={props.image} />
+          <div className="card-content black-text">
             <span className="card-title">{props.title}</span>
           </div>
 
