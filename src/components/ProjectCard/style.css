@@ -12,7 +12,7 @@
     box-shadow: -1px 10px 29px 0px rgba(0,0,0,0.8);
   }
 
-.card > .img-container {
+/* .card > .img-container {
     height: 100%;
     overflow: hidden;
     text-align: center;
@@ -21,7 +21,15 @@
   }
   .card > .img-container > img {
     width: 100%
-  }
+  } */
+
+.card-content {
+  background-color: #D3D3D3
+}
+
+  .card-action {
+  padding: 10px; 
+}
 
   .fa-github-square {
     padding:3px; 
