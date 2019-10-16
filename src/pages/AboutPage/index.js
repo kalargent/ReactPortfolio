@@ -31,6 +31,7 @@ const AboutPage = props => {
         in additional revenue because the feature was built so it could apply to
         multiple industries within the organizations profile.
       </div>
+      
     </div>
   );
 };
