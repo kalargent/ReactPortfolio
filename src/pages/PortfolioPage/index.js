@@ -1,12 +1,20 @@
 import React from "react"; 
 import projects from "../../projects.json"; 
 import ProjectCard from "../../components/ProjectCard"
+// import project from "../../components/Projects/projects"
 
 import './style.css'; 
 
 const PortfolioPage = (props) =>{
 
     return (
+
+      // <div>
+      //   {project.map((item, i) => (
+      //     <Project render={item.render} key={i} />
+      //   ))}
+      // </div>
+      
         <div className="portfolio-page"> 
             <div className="portfolio-title">
                <h2>Portfolio</h2> 
@@ -26,6 +34,7 @@ const PortfolioPage = (props) =>{
             ))}
             </div>
         </div>
+
     )
 }
 
