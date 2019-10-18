@@ -7,6 +7,13 @@
     background-color: #876A8B; 
 }
 
+.disclaimer {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color: white; 
+    padding-left: 30px; 
+}
+
 .intro {
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
