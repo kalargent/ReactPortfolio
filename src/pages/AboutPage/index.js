@@ -9,29 +9,21 @@ const AboutPage = props => {
       </div>
 
       <div className="about-text">
-        Full Stack Web Developer with extensive experience in the software
-        industry looking to utilize skills in business analysis, product and
-        project management. A recent graduate of the University of
-        Pennsylvania’s Coding Bootcamp, I’ve also developed competency in
-        HTML/CSS, Javascript, JQuery, React.js, and databases like Mongo and
-        SQL. This unique combination of skills and experience, along with my
-        proven record for building, motivating and leading teams is bound to be
-        an asset to any organization. I am known for my excitement and passion
-        for helping people solve problems with simple intuitive software and my
-        keen awareness of market and customer needs drives me to define and
-        build minimum viable products (MVPs) that provide real value, opening up
-        a continuous feedback loops for consistent improvement. Most recently, I
-        applied my product management skills, my mastery of Agile methodologies,
-        and my project management skills to help drive successful delivery of an
-        innovative two-way messaging feature for an existing client while
-        balancing their minimum viable product, my organizations desire to
-        resell the feature to other clients, and aggressive timelines. This
-        allowed my organization to meet a contractual obligation, my client to
-        realize a new and innovative way of engaging their audience, and brought
-        in additional revenue because the feature was built so it could apply to
-        multiple industries within the organizations profile.
+         <h5>17+ years in the software industry with previous roles in product management, business analysis, and technical writing. </h5>
+       
+         <h5>        I've spent the past six months expanding my skills through a Coding Bootcamp with a focus on Full Stack Web Development. 
+</h5>
+      <h5>I have a passion for simply designed web apps that catch the imagination and keep a user's attention.</h5>
       </div>
-      
+     
+      <div className="tech-icons">
+      <i className="fab fa-html5 fa-5x"></i>
+      <i className="fab fa-css3-alt fa-5x"></i>
+      <i className="fab fa-js fa-5x"></i>
+      <i className="fab fa-node-js fa-5x"></i>
+      <i className="fab fa-react fa-5x"></i>
+      <i className="fas fa-database fa-5x"></i>
+      </div>
     </div>
   );
 };

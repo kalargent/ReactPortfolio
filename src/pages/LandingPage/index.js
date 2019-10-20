@@ -19,7 +19,7 @@ const LandingPage = (props) =>{
             <div className="social">
             <a href = "https://www.linkedin.com/in/karen-largent-ab01494/" rel = "noopener noreferrer" target="_blank"><i className="fab fa-linkedin fa-3x"></i></a> 
             <a href = "https://github.com/kalargent" rel = "noopener noreferrer" target="_blank"><i class="fab fa-github-alt fa-3x"></i></a> 
-            <a href="../../assets/KAL Resume Full Stack Dev.pdf" target="_blank"><i className="fas fa-file fa-3x"></i></a>
+            <a href= "assets/KAL Resume Full Stack Dev.pdf" target="_blank"><i className="fas fa-file fa-3x"></i></a>
             </div>
         </div>
     )

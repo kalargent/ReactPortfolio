@@ -11,17 +11,26 @@
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
     color:#6D6E71; 
-    padding-left: 30px; 
+     
+    text-align: center;
 }
 
 .about-text {
     font-family: 'Arimo', sans-serif;
-    /* size: 100rem;  */
     color:#6D6E71; 
-    padding-left: 30px; 
+    text-align: center;
+    padding: 30px;
 }
 
-.social {
+.tech-icons {
     padding-left: 30px; 
+    text-align: center;
 }
+
+.fa-html5, .fa-css3-alt, .fa-js, .fa-node-js, .fa-react, .fa-database  {
+    color:#6D6E71; 
+
+}
+
+
 
