@@ -9,6 +9,7 @@ const LandingPage = (props) =>{
             The user experience for this site is currently under construction. Scroll down to check out my portfolio. <br></br>
             <a href="https://kalargent.github.io/bootstrap-portfolio/index.html" target="blank">Click Here</a> to view my old site.
             </div>  */}
+            
             <div className="intro">
                 <h1>Hello, I'm Karen!</h1> 
             </div>

@@ -6,7 +6,7 @@
     "git": "https://github.com/kmj217/Project3",
     "prod": "https://guarded-oasis-99226.herokuapp.com/",
     "video": "", 
-    "description": "MongoDBm, Express, React, Node (MERN)"
+    "description": "Web app to help Crossfitters and Powerlifters track personal records."
   }, 
 
   {
@@ -16,7 +16,7 @@
     "git": "https://github.com/kalargent/clicking-with-marnie",
     "prod": "https://kalargent.github.io/clicking-with-marnie/",
     "video": "", 
-    "description": "Node.js, Express, MongoDB, React"
+    "description": "Octocat-themed memory game. Don't click the same image twice!"
   },
 
   {
@@ -25,7 +25,7 @@
     "image": "https://media2.s-nbcnews.com/i/newscms/2019_03/1401615/anne-burrell-killer-turkey-burger-today-main-today-190114-02_221ba7fea3790e918974cc7c16a29b64.jpg",
     "git": "https://github.com/kalargent/eat-da-burger",
     "prod": "https://cryptic-ravine-79248.herokuapp.com/",
-    "description": "Node.js, Express, Handlebars"
+    "description": "Web app that allows users to create and then devour burgers."
   },
 
   {
@@ -35,7 +35,7 @@
     "git": "https://github.com/kalargent/site-scrape",
     "prod": "https://warm-journey-95389.herokuapp.com",
     "video": "", 
-    "description": "Node.js, Express, MongoDB"
+    "description": "Scrapes a site for articles, allows users select and view favorites and add notes."
   },
 {
     "id": 7,
@@ -44,6 +44,6 @@
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "https://embed.vidyard.com/share/UtydV5wznNf22ZkbA9FfBA?",
     
-    "description": "Node.js, mySQL"
+    "description": "A Node CLI project that allows users to shop for and purchase items."
   }
 ]

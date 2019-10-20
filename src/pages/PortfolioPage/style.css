@@ -8,10 +8,17 @@
 }
 
 .portfolio-title {
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     /* size: 100rem;  */
     color: #F8F8FF; 
     text-align: center;
+}
+
+.p {
+    font-family: 'Arimo', sans-serif;
+    color:#F8F8FF; 
+    text-align: center;
+    padding: 30px;
 }
 
 .project-cards {
