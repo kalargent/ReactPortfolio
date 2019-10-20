@@ -19,7 +19,7 @@ const PortfolioPage = (props) =>{
             <div className="portfolio-title">
                <h2>Portfolio</h2> 
             </div>
-            <div>
+            <div className="project-cards">
             {props.projects.map(projects => (
               <ProjectCard
                 id={projects.id}

@@ -1,80 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Word Guess Game",
-    "image": "http://solcieti.com/HOU/wp-content/uploads/2019/03/mean-girls.jpg",
-    "git": "https://github.com/kalargent/word-guess-game",
-    "prod": "https://kalargent.github.io/word-guess-game/",
+    "name": "Sarge",
+    "image": "https://www.apewebapps.com/apps/sarge/1.3.0/assets/images/title/trollland_logo.png",
+    "git": "https://github.com/kmj217/Project3",
+    "prod": "https://guarded-oasis-99226.herokuapp.com/",
     "video": "", 
-    "description": "JavaScript"
-  },
+    "description": "MongoDBm, Express, React, Node (MERN)"
+  }, 
 
   {
-    "id": 2,
-    "name": "Number Guess Game",
-    "image": "https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fwww.blogcdn.com%2Fwow.joystiq.com%2Fmedia%2F2008%2F04%2Faz_kylkeroppi.jpg&client=amp-blogside-v2&signature=b5bb15c3e222c509e6e449c01cf82b6283bf72ee",
-    "git": "https://github.com/kalargent/kerropis-number-guess",
-    "prod": "https://kalargent.github.io/kerropis-number-guess/",
-    "video": "",
-    "description": "JavaScript, JQuery"
-  },
-
-  {
-    "id": 3,
-    "name": "Friends Trivia",
-    "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2018/10/Friends-2-920x584.jpg",
-    "git": "https://github.com/kalargent/Friends-Trivia-Game",
-    "prod": "https://kalargent.github.io/Friends-Trivia-Game/",
+    "id": 12,
+    "name": "Octocat Game",
+    "image": "https://cdn.dribbble.com/users/3398424/screenshots/6293988/octocato1final.png",
+    "git": "https://github.com/kalargent/clicking-with-marnie",
+    "prod": "https://kalargent.github.io/clicking-with-marnie/",
     "video": "", 
-    "description": "JavaScript, JQuery"
-  },
-  {
-    "id": 4,
-    "name": "GIF Generator",
-    "image": "https://thumbs.gfycat.com/GiddyReliableBichonfrise-max-1mb.gif",
-    "git": "https://github.com/kalargent/Doggo-GIF-Generator",
-    "prod": "https://kalargent.github.io/Doggo-GIF-Generator/",
-    "video": "", 
-    "description": "JavaScript, JQuery, AJAX"
-  },
-  {
-    "id": 5,
-    "name": "RPS",
-    "image": "https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-size_restricted.gif",
-    "git": "https://github.com/kalargent/RPS",
-    "prod": "https://kalargent.github.io/RPS/",
-    "video": "", 
-    "description": "JavaScript, JQuery, Firebase"
-  },
-
-  {
-    "id": 6,
-    "name": "LIRI",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36slmcIuSPYwjVQmMGW1FueMCNVvdvaO4kFVNwqbWKNw-B0-toQ",
-    "git": "https://github.com/kalargent/LIRI",
-    "prod": "",
-    "video": "https://embed.vidyard.com/share/ztqSaMtZ9jHS6cBi5YbsTV?", 
-    "description": "Node.js"
-  },
-
-  {
-    "id": 7,
-    "name": "Bamazon",
-    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7ba54148002457.588b581f680b9.gif",
-    "git": "https://github.com/kalargent/pup-friend-finder",
-    "prod": "",
-    "video": "https://embed.vidyard.com/share/UtydV5wznNf22ZkbA9FfBA?", 
-    "description": "Node.js, mySQL"
-  },
-
-  {
-    "id": 8,
-    "name": "Friend Finder",
-    "image": "https://i.gifer.com/77jb.gif",
-    "git": "https://github.com/kalargent/pup-friend-finder",
-    "prod": "https://mysterious-plateau-86607.herokuapp.com/",
-    "video": "https://embed.vidyard.com/share/BmR4rzQmfZrZo5joCMK2uH?", 
-    "description": "Node.js, Express"
+    "description": "Node.js, Express, MongoDB, React"
   },
 
   {
@@ -83,18 +25,7 @@
     "image": "https://media2.s-nbcnews.com/i/newscms/2019_03/1401615/anne-burrell-killer-turkey-burger-today-main-today-190114-02_221ba7fea3790e918974cc7c16a29b64.jpg",
     "git": "https://github.com/kalargent/eat-da-burger",
     "prod": "https://cryptic-ravine-79248.herokuapp.com/",
-    "video": "https://embed.vidyard.com/share/8pqDkyB8KGUa2t9GcKHog9?", 
     "description": "Node.js, Express, Handlebars"
-  },
-
-  {
-    "id": 10,
-    "name": "Walk the Aisle",
-    "image": "https://www.zola.com/blog/wp-content/uploads/2015/12/carfeatured.png",
-    "git": "https://github.com/kalargent/project-2",
-    "prod": "https://mysterious-sierra-10862.herokuapp.com",
-    "video": "", 
-    "description": "Node.js, Express, mySQL"
   },
 
   {
@@ -106,14 +37,13 @@
     "video": "", 
     "description": "Node.js, Express, MongoDB"
   },
-
-  {
-    "id": 12,
-    "name": "Octocat Game",
-    "image": "https://cdn.dribbble.com/users/3398424/screenshots/6293988/octocato1final.png",
-    "git": "https://github.com/kalargent/clicking-with-marnie",
-    "prod": "https://kalargent.github.io/clicking-with-marnie/",
-    "video": "", 
-    "description": "Node.js, Express, MongoDB, React"
+{
+    "id": 7,
+    "name": "Bamazon",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7ba54148002457.588b581f680b9.gif",
+    "git": "https://github.com/kalargent/pup-friend-finder",
+    "prod": "https://embed.vidyard.com/share/UtydV5wznNf22ZkbA9FfBA?",
+    
+    "description": "Node.js, mySQL"
   }
 ]
