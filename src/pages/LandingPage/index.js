@@ -10,7 +10,7 @@ const LandingPage = (props) =>{
             <a href="https://kalargent.github.io/bootstrap-portfolio/index.html" target="blank">Click Here</a> to view my old site.
             </div>  */}
             <div className="intro">
-                <h2>Hi, I'm Karen</h2> 
+                <h1>Hello, I'm Karen!</h1> 
             </div>
             <div className="tagline">
                 <h5>Product Manager | Full Stack Web Developer </h5>
