@@ -10,12 +10,14 @@
 .portfolio-title {
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
-    color: white; 
+    color: #F8F8FF; 
     text-align: center;
 }
 
 .project-cards {
-    display:flex; 
-    align-items: center;
-    /* justify-content: center; */
+    margin:auto;
+    
+    text-align: center;  
+    /* width:100% */
+    /* padding-left: 50px */
 }

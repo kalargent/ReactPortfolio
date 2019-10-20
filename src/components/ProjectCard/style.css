@@ -1,10 +1,11 @@
 .card {
     width: 200px; 
     height: 200px; 
-    /* background: #88AE7D;  */
+    /* background: #D3D3D3;  */
+    background: #F8F8FF;
     /* padding: 10px;  
-    margin: 30px; 
-    border-radius: 15px; */
+    margin: 30px;  */
+    border-radius: 15px;
     display: inline-block; 
 } 
 
@@ -25,8 +26,8 @@
     overflow: hidden;
     text-align: center;
     background:#6CADDC;
-    border-radius: 15px; 
-  }
+    /* border-radius: 15px;  */
+  /* } */
   .card > .img-container > img {
     width: 100%
   } */
@@ -38,36 +39,39 @@
 
 .title {
   /* font-family: 'Arimo', sans-serif; */
-  font-size: medium;
-  font:  #6D6E71; 
+  font-size: large;
+  color:  #6D6E71; 
   font-weight: bold; 
-  padding-bottom: 20px
+  padding-bottom: 20px; 
 }
 
 .description {
   /* font-family: 'Arimo', sans-serif; */
-  font-size: small
+  font-size: small; 
+  color:  #6D6E71; 
 }
 
   .card-action {
   background-color: #D3D3D3; 
-  height: 40px;
+  height: 80px;
+  justify-content: center;
 }
 
   .fa-github-square {
-    padding:3px; 
+    padding-top: 12px;
     color: #6D6E71
 }
 
 .fa-link {
-    padding:3px; 
+    padding-top: 12px; 
+    /* padding:3px;  */
     color: #6D6E71
 }
 
-.fa-video {
+/* .fa-video {
     padding:3px; 
     color: #6D6E71
-}
+} */
 
 .fa-laptop-code {
   padding:3px; 

@@ -17,14 +17,14 @@
 .intro {
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
-    color: white; 
+    color: #F8F8FF; 
     text-align: center; 
 }
 
 .tagline {
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
-    color: white; 
+    color: #F8F8FF; 
     text-align: center; 
 }
 
@@ -33,15 +33,16 @@
 }
 
 .fab {
-    color:white;
+    color:#F8F8FF;
     padding: 15px; 
 }
 
 .fa-3x {
-    color: white
+    color: F8F8FF; 
+    padding: 15px
 }
 
 .fas {
-    color:white; 
+    color:#F8F8FF; 
     padding: 15px; 
 }
