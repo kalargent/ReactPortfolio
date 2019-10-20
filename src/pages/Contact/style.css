@@ -1,0 +1,16 @@
+.contact-page { 
+    min-height: 100vh; 
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #F8F8FF; 
+}
+
+.contact-title {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color:#6D6E71; 
+     
+    text-align: center;
+}

@@ -7,6 +7,7 @@ import featured from "./featured.json";
 import LandingPage from "./pages/LandingPage";
 import AboutPage from "./pages/AboutPage";
 import PortfolioPage from "./pages/PortfolioPage";
+import Contact from "./pages/Contact"; 
 // import About from './components/About';
 
 class App extends React.Component {
@@ -23,6 +24,7 @@ class App extends React.Component {
         <PortfolioPage 
           projects={this.state.projects}
         />
+        <Contact />
       </div>
     );
   }
