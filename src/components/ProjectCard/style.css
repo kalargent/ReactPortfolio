@@ -38,9 +38,9 @@
 }
 
 .title {
-  /* font-family: 'Arimo', sans-serif; */
+  font-family: 'Josefin Sans', sans-serif;
   font-size: large;
-  color:  #6D6E71; 
+  color:  #876A8B; 
   font-weight: bold; 
   padding-bottom: 20px; 
 }
@@ -59,13 +59,13 @@
 
   .fa-github-square {
     padding-top: 12px;
-    color: #6D6E71
+    color: #876a8b
 }
 
 .fa-link {
     padding-top: 12px; 
     /* padding:3px;  */
-    color: #6D6E71
+    color: #876a8b
 }
 
 /* .fa-video {
