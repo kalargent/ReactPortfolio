@@ -18,24 +18,30 @@
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
     color: white; 
-    padding-left: 30px; 
+    text-align: center; 
 }
 
 .tagline {
     font-family: 'Arimo', sans-serif;
     /* size: 100rem;  */
     color: white; 
-    padding-left: 30px; 
+    text-align: center; 
 }
 
 .social {
-    padding-left: 30px; 
+    text-align: center;
 }
 
 .fab {
-    color:white
+    color:white;
+    padding: 15px; 
+}
+
+.fa-3x {
+    color: white
 }
 
 .fas {
-    color:white
+    color:white; 
+    padding: 15px; 
 }
