@@ -12,7 +12,7 @@
   {
     "id": 12,
     "name": "Octocat Game",
-    "image": "https://cdn.dribbble.com/users/3398424/screenshots/6293988/octocato1final.png",
+    "image": "assets/Octocat.png",
     "git": "https://github.com/kalargent/clicking-with-marnie",
     "prod": "https://kalargent.github.io/clicking-with-marnie/",
     "video": "", 
@@ -22,7 +22,7 @@
   {
     "id": 9,
     "name": "Burger Shop",
-    "image": "https://media2.s-nbcnews.com/i/newscms/2019_03/1401615/anne-burrell-killer-turkey-burger-today-main-today-190114-02_221ba7fea3790e918974cc7c16a29b64.jpg",
+    "image": "assets/burgers.png",
     "git": "https://github.com/kalargent/eat-da-burger",
     "prod": "https://cryptic-ravine-79248.herokuapp.com/",
     "description": "Web app that allows users to create and then devour burgers."
@@ -31,7 +31,7 @@
   {
     "id": 11,
     "name": "Site Scraper",
-    "image": "https://wordswithlisbeth.com/wp-content/uploads/2011/03/bumpers.jpg",
+    "image": "assets/Scraper.png",
     "git": "https://github.com/kalargent/site-scrape",
     "prod": "https://warm-journey-95389.herokuapp.com",
     "video": "", 
@@ -40,7 +40,7 @@
 {
     "id": 7,
     "name": "Bamazon",
-    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7ba54148002457.588b581f680b9.gif",
+    "image": "assets/amazon.jpeg",
     "git": "https://github.com/kalargent/pup-friend-finder",
     "prod": "https://embed.vidyard.com/share/UtydV5wznNf22ZkbA9FfBA?",
     
