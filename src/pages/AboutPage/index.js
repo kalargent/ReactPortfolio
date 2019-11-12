@@ -9,11 +9,11 @@ const AboutPage = props => {
       </div>
 
       <div className="about-text">
-         <h4>17+ years in the software industry with previous roles in product management, business analysis, and technical writing. </h4>
+         <h5>17+ years in the software industry with previous roles in product management, business analysis, and technical writing. </h5>
        
-         <h4>        I've spent the past six months expanding my skills through a Coding Bootcamp with a focus on Full Stack Web Development. 
-</h4>
-      <h4>I have a passion for simply designed web apps that catch the imagination and keep a user's attention.</h4>
+         <h5>        I've spent the past six months expanding my skills through a Coding Bootcamp with a focus on Full Stack Web Development. 
+</h5>
+      <h5>I have a passion for simply designed web apps that catch the imagination and keep a user's attention.</h5>
       </div>
      
       <div className="tech-icons">

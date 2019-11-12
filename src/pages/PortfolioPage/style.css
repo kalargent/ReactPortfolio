@@ -21,6 +21,13 @@
     padding: 30px;
 }
 
+.tagline {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color: #F8F8FF; 
+    text-align: center; 
+}
+
 .project-cards {
     margin:auto;
     

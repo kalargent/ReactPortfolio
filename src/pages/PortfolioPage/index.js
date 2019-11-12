@@ -16,7 +16,8 @@ const PortfolioPage = props => {
     <div className="portfolio-page">
       <div className="portfolio-title">
         <h2>Portfolio</h2>
-        <h5>Check out some of my favorite projects! </h5>
+        <div className="tagline"><h5>Check out some of my favorite projects! </h5></div>
+        
       </div>
 
       
