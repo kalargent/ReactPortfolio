@@ -24,7 +24,7 @@ class App extends React.Component {
         <PortfolioPage 
           projects={this.state.projects}
         />
-        <Contact />
+        {/* <Contact /> */}
       </div>
     );
   }
