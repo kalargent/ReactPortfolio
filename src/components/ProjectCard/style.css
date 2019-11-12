@@ -82,4 +82,6 @@
 .image {
   width: 215px; 
   height: 125x; 
+  border-style: solid; 
+  border-color: #6D6E71
 }
