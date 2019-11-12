@@ -15,10 +15,10 @@ function ProjectCard(props) {
             <span className="title">{props.title}</span>
             <p className="description">{props.description}</p>
             
-            <img src={props.image} className="image"></img>
+            <img src={props.image} alt="thumbnail of web site" className="image"></img>
             {/* <img src>{props.image}</img> */}
-            <a href={props.git} target="blank"> <i class="fab fa-github-square fa-md fa-2x"></i></a>
-           <a href={props.prod} target="blank"> <i class="fas fa-link fa-md fa-2x"></i></a>
+            <a href={props.git} target="blank"> <i className="fab fa-github-square fa-md fa-2x"></i></a>
+           <a href={props.prod} target="blank"> <i className="fas fa-link fa-md fa-2x"></i></a>
           </div>
 
           {/* <div className="card-action">   */}
