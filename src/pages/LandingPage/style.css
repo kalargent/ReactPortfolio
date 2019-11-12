@@ -28,6 +28,14 @@
     text-align: center; 
 }
 
+.email {
+    font-family: 'Arimo', sans-serif;
+    /* size: 100rem;  */
+    color: #F8F8FF; 
+    text-align: center; 
+}
+
+
 .social {
     text-align: center;
 }

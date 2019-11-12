@@ -16,8 +16,8 @@ const LandingPage = (props) =>{
             <div className="tagline">
                 <h5>Product Manager | Full Stack Web Developer </h5>
             </div>
-            <div>
-                <h7>Contact Me: kalargent@gmail.com</h7>
+            <div className="email">
+                <h6>kalargent@gmail.com</h6>
             </div>
 
             <div className="social">
