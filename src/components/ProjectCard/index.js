@@ -14,7 +14,8 @@ function ProjectCard(props) {
             {/* <span>{props.logo}</span> */}
             <span className="title">{props.title}</span>
             <p className="description">{props.description}</p>
-            
+            <img src={props.image}></img>
+            {/* <img src>{props.image}</img> */}
             <a href={props.git} target="blank"> <i class="fab fa-github-square fa-md fa-2x"></i></a>
            <a href={props.prod} target="blank"> <i class="fas fa-link fa-md fa-2x"></i></a>
           </div>
