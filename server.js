@@ -10,7 +10,7 @@ const nodemailer = require('nodemailer');
 const express = require('express'); 
 const app = express(); 
 
-const bodyparser = require('body-parser'); 
+const bodyparser = require('body-parser');  
 app.use(bodyparser.urlencoded( {extended:true} )); 
 
 // POST METHOD 
