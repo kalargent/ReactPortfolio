@@ -1,6 +1,16 @@
 //RESOURCES 
 //https://tylerkrys.ca/blog/adding-nodemailer-email-contact-form-node-express-app
-const auth = require('');
+
+
+let GMAIL_USER = process.env.GMAIL_USER
+let GMAIL_PASS = process.env.GMAIL_PASS
+
+if (GMAIL_USER === undefined) { 
+    console.log("no username"); 
+    process.exit(); 
+}
+
+
 
 // BRING IN NODEMAILER 
 const nodemailer = require('nodemailer'); 
@@ -9,6 +19,12 @@ const nodemailer = require('nodemailer');
 
 const express = require('express'); 
 const app = express(); 
+
+// Serve up static assets (usually on heroku)
+if (process.env.NODE_ENV === "production") {
+    app.use(express.static("client/build"));
+    // app.use('/static', express.static(path.join(__dirname, 'client/build')));
+  }
 
 const bodyparser = require('body-parser');  
 app.use(bodyparser.urlencoded( {extended:true} )); 
@@ -28,7 +44,7 @@ app.post('/contact', (req, res) => {
 
     // EMAIL FORMAT 
     const MailOpts = {
-        from: 'kalargent@gmail.com', 
+        from: GMAIL_USER, 
         to: GMAIL_USER, 
         subject: 'New Message from karenlargent.com', 
         text: `${req.body.name} (${req.body.email}) says: ${req.body.message}`

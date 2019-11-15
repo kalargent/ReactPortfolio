@@ -34,7 +34,9 @@ class ContactForm extends Component {
     return (
       <div className="container">
 
-        <form action="/contact" id="contact-form" method="post" role="form">
+        {/* <form action="/contact" id="contact-form" method="post" role="form"> */}
+        <form action="https://formsubmit.co/kalargent@gmail.com" method="POST">
+        <input type="hidden" name="_next" value="http://www.karenlargent.com" />
             
           <fieldset>
             <label for="name">Name</label>
