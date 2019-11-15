@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
+import "./style.css";
 
 class ContactForm extends Component {
   // handleSubmit(e) {
@@ -35,7 +36,7 @@ class ContactForm extends Component {
       <div className="container">
 
         {/* <form action="/contact" id="contact-form" method="post" role="form"> */}
-        <form action="https://formsubmit.co/kalargent@gmail.com" method="POST">
+        <form class = "form" action="https://formsubmit.co/kalargent@gmail.com" method="POST">
         <input type="hidden" name="_next" value="http://www.karenlargent.com" />
             
           <fieldset>
@@ -66,7 +67,7 @@ class ContactForm extends Component {
               required
             />
 
-            <button type="submit">Submit</button>
+            <button class="btn btn-secondary" type="submit">Submit</button>
           </fieldset>
         </form>
       </div>
