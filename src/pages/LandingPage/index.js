@@ -16,9 +16,9 @@ const LandingPage = (props) =>{
             <div className="tagline">
                 <h5>Full Stack Web Developer | Product Manager</h5>
             </div>
-            <div className="email">
+            {/* <div className="email">
                 <h6>kalargent@gmail.com</h6>
-            </div>
+            </div> */}
 
             <div className="social">
             <a href = "https://www.linkedin.com/in/karen-largent-ab01494/" rel = "noopener noreferrer" target="_blank"><i className="fab fa-linkedin fa-3x"></i></a> 
